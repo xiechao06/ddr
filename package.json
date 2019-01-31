@@ -1,0 +1,20 @@
+{
+  "name": "ddr",
+  "version": "0.0.1",
+  "description": "data driven react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiechao06/ddr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiechao06/ddr/issues"
+  },
+  "homepage": "https://github.com/xiechao06/ddr#readme"
+}
